@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Dheeraj Guggala 👋</h1>
+<h1 align="center">Hello there, I'm Dheeraj Guggala </h1>
 
 <p align="center">
   <strong>CS Student · Cloud Engineer · Full-Stack Developer</strong><br/>
@@ -8,18 +8,18 @@
 
 <p align="center">
   <a href="https://thegdj.github.io">🌐 Portfolio</a> ·
-  <a href="https://github.com/theGDJ?tab=repositories">📦 Repositories</a> ·
+  <a href="https://github.com/theGDJ?tab=repositories"> Repositories</a> ·
   <a href="https://github.com/theGDJ/theGDJ.github.io/blob/main/Dheeraj-Guggala-Resume.pdf">📄 Résumé</a>
 </p>
 
 ---
 
-### 🚀 About me
+### About me
 
-- 🎓 Computer Science student, learning by building real projects end-to-end
-- ☁️ Focused on **cloud engineering** — infrastructure, deployment pipelines and DevOps
-- 🤖 Passionate about **applied AI** — shipping LLM-powered tools people can actually use
-- 💡 Comfortable across the stack: **TypeScript / React / Next.js**, **Node / Express**, **Python / Flask**, and **SQL (PostgreSQL · SQLite)**
+- Computer Science student, learning by building real projects end-to-end
+- Focused on **cloud engineering** — infrastructure, deployment pipelines and DevOps
+- Passionate about **applied AI** — shipping LLM-powered tools people can actually use
+- Comfortable across the stack: **TypeScript / React / Next.js**, **Node / Express**, **Python / Flask**, and **SQL (PostgreSQL · SQLite)**
 
 ### 🛠️ Tech stack
 
@@ -44,26 +44,26 @@
 
 #### ✉️ [AI Mail Summarizer](https://github.com/theGDJ/email)
 Executive-tier AI inbox assistant built with **React 19**, **Express**, **Gemini** and **PostgreSQL/Prisma**.
-- 🧠 Executive summaries in four selectable styles (brief, concise, bullets, deliverables)
-- ✅ Automatic action-item extraction into an interactive task tracker
-- 📅 Deadline & meeting detection with one-click Google Calendar integration
-- 💬 Smart reply assistant (accept / decline / clarify / custom) and an "Ask AI" inbox chat
-- 📊 Analytics dashboard measuring real productivity gains
+- Executive summaries in four selectable styles (brief, concise, bullets, deliverables)
+- Automatic action-item extraction into an interactive task tracker
+- Deadline & meeting detection with one-click Google Calendar integration
+- Smart reply assistant (accept / decline / clarify / custom) and an "Ask AI" inbox chat
+- Analytics dashboard measuring real productivity gains
 
-#### 📚 [Library Management System](https://github.com/theGDJ/librarysystem)
+#### [Library Management System](https://github.com/theGDJ/librarysystem)
 Full-stack library app with **member and admin roles** — no frameworks on the front end, real SQL under the hood.
-- 🔍 Catalog search & filters, borrow (14-day loans, max 5) and returns
-- 🛡️ Admin dashboard with stats, book CRUD and safety checks (can't delete checked-out books, can't under-stock copies)
-- 🧾 Loan ledger with overdue filters and admin-side return recording
-- ⚙️ **Vanilla JS + Express + SQLite** with a proper schema and seed script
+- Catalog search & filters, borrow (14-day loans, max 5) and returns
+- Admin dashboard with stats, book CRUD and safety checks (can't delete checked-out books, can't under-stock copies)
+- Loan ledger with overdue filters and admin-side return recording
+- **Vanilla JS + Express + SQLite** with a proper schema and seed script
 
-#### 🐍 [Flask Library App](https://github.com/theGDJ/lib)
+#### [Flask Library App](https://github.com/theGDJ/lib)
 Lightweight **Flask** take on library management — issue/return books, member and transaction views, JSON persistence. Great companion to the full-stack version above.
 
-#### 🌅 [Vista](https://github.com/theGDJ/vista)
+#### [Vista](https://github.com/theGDJ/vista)
 A **Next.js 16** full-stack starter wired with **Drizzle ORM + PostgreSQL**, **Tailwind CSS 4** and **Framer Motion** — typed data layer, clean architecture, ready to build on.
 
-#### 🌐 [Personal Site & Résumé](https://thegdj.github.io)
+#### [Personal Site & Résumé](https://thegdj.github.io)
 My GitHub Pages portfolio and [résumé](https://github.com/theGDJ/theGDJ.github.io/blob/main/Dheeraj-Guggala-Resume.pdf).
 
 ---
